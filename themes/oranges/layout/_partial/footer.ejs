@@ -11,7 +11,7 @@
     </ul>
   </div>
   
-  
+  <% for(let item of theme.footer.social){ %>
   <span id="bloggeractivetime"></span>
   <script type="text/javascript">
   document.onreadystatechange = function(){
@@ -23,7 +23,8 @@
     }
   </script>
   
-   <% } %>
+  <% } %>
+   
   <% for(let item of theme.footer.more){ %>
     <div class="footer-more">
       <a href="<%- item.path %>"><%- item.name %></a>
