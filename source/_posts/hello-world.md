@@ -37,3 +37,5 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/huaji/huaji(29).gif)
