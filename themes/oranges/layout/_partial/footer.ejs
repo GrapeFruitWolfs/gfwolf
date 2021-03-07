@@ -10,9 +10,10 @@
       <% } %>
     </ul>
   </div>
-  
-  <div class="footer-more">
-  <span id="bloggeractivetime"></span>
+   
+  <% for(let item of theme.footer.more){ %>
+    <div class="footer-more">
+    <span id="bloggeractivetime"></span>
   <script type="text/javascript">
   document.onreadystatechange = function(){
       if(document.readyState == "complete"){
@@ -22,11 +23,7 @@
          }
     }
   </script>
-  <% } %>
-  </div>
-   
-  <% for(let item of theme.footer.more){ %>
-    <div class="footer-more">
+  <br>
       <a href="<%- item.path %>"><%- item.name %></a>
     </div>
   <% } %>
