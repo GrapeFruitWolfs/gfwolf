@@ -10,6 +10,8 @@
       <% } %>
     </ul>
   </div>
+  <% for(let item of theme.footer.more){ %>
+  <div class="footer-more">
   <span id="bloggeractivetime"></span>
   <script type="text/javascript">
   document.onreadystatechange = function(){
@@ -17,9 +19,10 @@
           var ele = document.createElement("script");
           ele.src = "https://grape.883602.xyz/hpp/api/getblogeractive";
           document.body.appendChild(ele);
-       }
-  }
-</script>
+         }
+    }
+  </script>
+  </div>
   <% for(let item of theme.footer.more){ %>
     <div class="footer-more">
       <a href="<%- item.path %>"><%- item.name %></a>
