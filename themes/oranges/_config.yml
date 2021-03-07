@@ -134,7 +134,7 @@ footer:
     # path: 地址
     -
       name: github
-      icon: github
+      icon: 
       path: https://github.com/zchengsite/hexo-theme-oranges
     -
       name: email
