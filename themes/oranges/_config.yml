@@ -24,7 +24,7 @@ favicon:
 # 用户头像与昵称
 avatar:
   author_photo: /images/avatar.png
-  author_nickname: Oranges
+  author_nickname: GrapeWolf
   path: /
 
 # Google 分析
@@ -139,22 +139,22 @@ footer:
     -
       name: email
       icon: envelope
-      path: 
+      path: wilian.yunlong@gmail.com
     -
-      name: facebook
-      icon: facebooksquare
+      name: facebooksquare
+      icon: 
       path:
     -
       name: twitter
-      icon: twitter
+      icon: 
       path:
     -
       name: wechat
       icon: wechat
-      path:
+      path: weixin://GrapeFruitWolf
     -
       name: weibo
-      icon: weibo
+      icon: 
       path:
     -
       # rss需安装 hexo-generator-feed 插件
