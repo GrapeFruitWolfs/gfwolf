@@ -2,7 +2,7 @@
 title: Hello World
 ---
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to [Grape]()! This is your very first post. Check [documentation]() for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting]() or you can ask me on [GitHub]().
 
 ## Quick Start
 
@@ -12,7 +12,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 $ hexo new "My New Post"
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+More info: [Writing]()
 
 ### Run server
 
@@ -20,7 +20,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 $ hexo server
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
+More info: [Server]()
 
 ### Generate static files
 
@@ -28,7 +28,7 @@ More info: [Server](https://hexo.io/docs/server.html)
 $ hexo generate
 ```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+More info: [Generating]()
 
 ### Deploy to remote sites
 
@@ -36,7 +36,7 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+More info: [Deployment]()
 
 ![](https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic/image/huaji/huaji(29).gif)
 
